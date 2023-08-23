@@ -1,7 +1,16 @@
 name: jdraggable_view
-description: Just an Amazing Full of Features and Highly Customizable Widget to Implement Draggable Views.
+description: Just an Amazing Full of Features and Highly Customizable Flutter Widget to Implement Draggable Views.
 version: 0.0.1
-homepage:
+homepage: https://github.com/AymanYassinn/
+repository: https://github.com/AymanYassinn/JDraggable_View
+screenshots:
+  - description: 'Example For Expanded'
+    path: example/assets/1.jpg
+  - description: 'Example For Collapsed'
+    path: example/assets/2.jpg
+  - description: 'Example For Full Expanded'
+    path: example/assets/3.jpg
+
 
 environment:
   sdk: '>=3.0.6 <4.0.0'
@@ -10,7 +19,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  provider: any
+  provider: ^6.0.5
 dev_dependencies:
   flutter_test:
     sdk: flutter
